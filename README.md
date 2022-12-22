@@ -11,6 +11,7 @@ Given the provided data, what are three conclusions that we can draw about crowd
 What are some limitations of this dataset?
 Some campaigns could fit more than one classification.  For example journalism/audio might also be considered publishing/radio & podcasts.  
 2020 has much less data than the other years, 2 campaigns compared to aorund 85 to 110 for other years.
+The table does not include a currency conversion to  display currencies from all countries in an equivilant way. Donatio.ns and goals in DKK, USD and GBP are just comparing raw numbers 
 
 
 What are some other possible tables and/or graphs that we could create, and what additional value would they provide?
