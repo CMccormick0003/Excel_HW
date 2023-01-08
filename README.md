@@ -31,6 +31,3 @@ However the number of backers for some failed camapigns is higher than the total
 
 
 Note on the Outcome by Goal tab:  Written instructions described last goal as "greater than or equal to 50000" however sample chart showed "greater than 50000."  I chose to use "greater than or equal to 50000" as it provides continuity in the categories else a value of exactly 50000 could never be reported upon.
-
-
-
